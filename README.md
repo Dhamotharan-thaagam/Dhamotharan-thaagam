@@ -144,59 +144,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<!-- Section Title -->
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        💻 Programming Statistics
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-<div align="center">
-
-<!--START_SECTION:commit-day-moment-->
-**🕒 I'm An Early 🐤**
-
-```text
-🌅 Morning                572 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27%
-🌞 Daytime                774 commits         ████████░░░░░░░░░░░░░░░░░   30.14%
-🌆 Evening                506 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70%
-🌙 Night                  716 commits         ███████░░░░░░░░░░░░░░░░░░   27.88%
-```
-
-
-<!--END_SECTION:commit-day-moment-->
-
-<!--START_SECTION:langTime-->
-
-```rust
-From: 27 October 2024 - To: 14 September 2025
-
-Total Time: 519 hrs 40 mins
-
-Python         248 hrs 29 mins ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.25 %
-JavaScript         132 hrs 13 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.10 %
-HTML               75 hrs 45 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.22 %
-CSS                62 hrs 57 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.67 %
-```
-
-<!--END_SECTION:langTime-->
-
-<!--START_SECTION:commit-dayweek-->
-<!--END_SECTION:commit-dayweek-->
-
-<!--START_SECTION:editor-time-->
-<!--END_SECTION:editor-time-->
-
-
-</div>
-
-<br><br><br>
-
-
 <!-- Projects subtitle (Codes) -->
 <!-- First row --><!-- Projects Section -->
 <!-- Projects subtitle (Development) -->
